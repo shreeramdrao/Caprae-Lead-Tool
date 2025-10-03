@@ -1,0 +1,14 @@
+Caprae Lead Tool — Report (generated 2025-10-03 06:12 UTC)
+Total leads processed: 19
+Valid emails: 19
+Average lead score: 56.32
+High priority (>=75): 0
+Medium priority (50-74): 11
+Low priority (<50): 8
+
+Top 5 leads (by score):
+- RetailHub 24 | contact@retailhub.net | Score: 70 | https://www.linkedin.com/company/retailhub-24
+- DataWave 41 | info@datawave.io | Score: 70 | https://www.linkedin.com/company/datawave-41
+- TechNova AI 11 | info@technovaai.com | Score: 70 | https://www.linkedin.com/company/technova-ai-11
+- TechNova AI 44 | contact@technovaai.com | Score: 70 | https://www.linkedin.com/company/technova-ai-44
+- DataWave 7 | contact@datawave.io | Score: 70 | https://www.linkedin.com/company/datawave-7
